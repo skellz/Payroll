@@ -1,0 +1,22 @@
+s a payroll accountant, I would like to keep track of all of the employees in a list, so that I can add or subtract employees, when they come and go in the company.
+  -Every employee that is currently employeed with the company will have their first and last name recorded on a csv sheet.
+  -The csv sheet should be able to be imported into the program to calculate the total employee's wages.
+ 
+------------------------------------------------------------
+As a payroll accountant, I would like to track the monthly salaries, so that I can make sure the payroll is correct every month and the correct amount of taxes have been deducted.
+  -Every employee imported from the CSV should have a base salary.
+ 
+-----------------------------------------------------------
+As a payroll accountant, I would like to track the total salary and total amount of taxes taken, so that I can keep track of the their total gross and net salary.
+ 
+  - Every employee will have their total salary including base salary, bonuses, and commission taxed.
+  -Employee gross salary will be calculated from total income of an employee.
+  -Net pay will be calculated pay after taxes are taken out and total bonuses are calculated.
+ 
+ 
+ 
+------------------------------------------------------------
+As a payroll accountant, I would like to track the total amount of sales, so that I can issue the correct commissions and bonuses that need to be delivered to the sales team and owner.
+  -Each employee's total sales for the month is calculated to see if they made their quota.
+  -If the employee's total sales exceed their quota, a bonus is issued.
+  -If the total sales for all of the employees exceeds the monthly quota for the business, a bonus is issued to the owner.
